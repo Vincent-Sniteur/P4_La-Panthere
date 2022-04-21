@@ -26,6 +26,12 @@ a:hover {
     font-weight: 500;
     color: #575757;
 }
+
+#bloc-7 p {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -806,10 +812,6 @@ h4 {
     background-image: url("img/dots-bg.webp");
 }
 
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.webp");
-}
-
 .bg-banniere {
     background-image: url("img/agence-la-panthere.webp");
 }
@@ -1018,6 +1020,9 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    #bloc-7 p {
+        text-align: center;
     }
 }
 
