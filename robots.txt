@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /js/
+
+sitemap: https://github.com/Vincent-Sniteur/P4_La-Panthere/sitemap.txt
