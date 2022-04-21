@@ -645,12 +645,17 @@ h4,
 h5,
 h6,
 p,
+.btn {
+    font-family: "helvetica";
+    font-weight: 500;
+    color: #575757!important;
+}
+
 label,
-.btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
+    font-weight: 700;
+    color: #575757;
 }
 
 .container {
@@ -673,10 +678,6 @@ a {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
-}
-
-p {
-    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -740,6 +741,11 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin: auto;
+}
+.img-responsive {
+    height: 300px;
+    width: 350px;
 }
 
 .portfolio-row {
