@@ -287,6 +287,7 @@ a:hover {
 }
 #bloc-1-hero img {
     width: 100px;
+    height: 100px;
 }
 
 .navbar {
@@ -305,7 +306,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 40px;
+    height: 40px;
+    width: auto;
     margin: 0 5px 0 0;
     display: inline;
 }
