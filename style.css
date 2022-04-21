@@ -285,6 +285,9 @@ a:hover {
 #bloc-1-hero h1 {
     font-size: 32px;
 }
+#bloc-1-hero img {
+    width: 100px;
+}
 
 .navbar {
     margin-bottom: 0;
@@ -298,10 +301,11 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    max-height: 40px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -522,6 +526,7 @@ button {
 
 .scrollToTop span {
     margin-top: 6px;
+    color: #F3976C;
 }
 
 .showScrollTop {
@@ -961,10 +966,6 @@ h4 {
         overflow-x: hidden;
         -webkit-box-shadow: none;
         box-shadow: none;
-    }
-    .navbar-brand img {
-        max-height: 40px;
-        width: auto;
     }
     .nav-invert .navbar-header {
         float: none;
