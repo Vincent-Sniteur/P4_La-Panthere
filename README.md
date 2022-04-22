@@ -16,6 +16,7 @@ Score Measure page sans modification
 ![Score Site de Base](https://i.imgur.com/tWvLg3E.png)
 
 Score GTmetrix page sans modification
+
 ![Note GTMetrix Avant](https://i.imgur.com/294RDDP.png)
 
 
@@ -30,6 +31,7 @@ Score Measure page avec modification
 ![Score Site Améliorer](https://i.imgur.com/Arhs5cD.png)
 
 Score GTmetrix page avec modification
+
 ![Note GTMetrix Après](https://i.imgur.com/IW8UZ99.png)
 
 
