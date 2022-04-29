@@ -78,6 +78,7 @@ SEO : +22
 11. Contact page > Change taille des infos de l'entreprise + responsive mobile au centre.
 12. Add taille max au image dans l'accueil "portpholio" 300x300 + change Size img 1,2 et logo.
 13. Add Discernible name sur les liens social du footer
+14. Minify All CSS & JS
 
 
 ## Auteurs
